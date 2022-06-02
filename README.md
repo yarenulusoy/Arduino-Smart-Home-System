@@ -2,10 +2,10 @@
  Arduino ile sensörler kullanarak akıllı ev sistemi
  Projede Proteus programında Arduino kartı kullanarak akıllı ev sistemi oluşturulmuştur. Sistem içerisinde;
  
-• Yangın alarmı, /
-• Hareket algılayan ışık sistemi, /
-• Dijital termometre, /
-• Kilit sistemi bulunmaktadır.  /
+• Yangın alarmı, \
+• Hareket algılayan ışık sistemi, \
+• Dijital termometre, \
+• Kilit sistemi bulunmaktadır.  \
 • Arduino kartı olarak Arduino Mega kullanılmıştır.
 
   Devre:
