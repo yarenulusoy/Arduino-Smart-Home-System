@@ -25,7 +25,7 @@
   title="Optional title"
   style="display: inline-block; margin: 0 auto;  width: 300px"> 
 
-  Kilit Sensörü:
+  Yangın Sensörü:
 
   <img
   src="/images/2.png"
@@ -34,7 +34,7 @@
   style="display: inline-block; margin: 0 auto;  width: 300px"> 
   
   
-  Yangın Sensörü: 
+  Kilit Sensörü: 
   
   <img
   src="/images/3.png"
