@@ -1,5 +1,5 @@
 # Arduino-Smart-Home-System
- Arduino ile sensörler kullanarak akıllı ev sistemi
+ Arduino ile sensörler kullanarak akıllı ev sistemi \
  Projede Proteus programında Arduino kartı kullanarak akıllı ev sistemi oluşturulmuştur. Sistem içerisinde;
  
 • Yangın alarmı, \
